@@ -1,0 +1,39 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AOP</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://192.168.1.22:8001/svn/bss/FRAME" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://192.168.1.22:8001/svn/bss/FRAME" />
+        <option value="http://192.168.1.22:8001/svn/bss/FRAME/al-commons/al-parent/trunk/" />
+        <option value="http://192.168.1.22:8001/svn/bss/FRAME/" />
+        <option value="http://192.168.1.22:8001/svn/bss/FRAME/al-commons/al-parent/trunk" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="D:\apps\Subversion\bin\svn.exe" />
+  </component>
+</application>

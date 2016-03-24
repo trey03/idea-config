@@ -1,0 +1,12 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>System.out.println</find>
+      <find>out</find>
+      <find>id</find>
+      <find>app</find>
+      <find>static</find>
+      <find>isDebugEnabled</find>
+    </findStrings>
+  </component>
+</application>
