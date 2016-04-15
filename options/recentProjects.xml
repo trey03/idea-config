@@ -6,11 +6,12 @@
         <option value="D:\work\idea_ws\hlog" />
         <option value="D:\work\idea_ws\ai-comms\al-parent" />
         <option value="D:\work\idea_ws\ai-comms" />
+        <option value="D:\work\idea_ws\ai-portal" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="D:\work\idea_ws\test" />
+        <option value="D:\work\idea_ws\hlog" />
       </list>
     </option>
     <option name="lastPath" value="D:\work\idea_ws\test" />
@@ -22,7 +23,7 @@
               <option name="build" value="IU-145.258" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\apps\JetBrains\IntelliJ IDEA 2016.1\bin" />
-              <option name="projectOpenTimestamp" value="1458478471881" />
+              <option name="projectOpenTimestamp" value="1460624268817" />
               <option name="buildTimestamp" value="1458144000000" />
             </RecentProjectMetaInfo>
           </value>
@@ -33,7 +34,18 @@
               <option name="build" value="IU-145.258" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\apps\JetBrains\IntelliJ IDEA 2016.1\bin" />
-              <option name="projectOpenTimestamp" value="1458613720002" />
+              <option name="projectOpenTimestamp" value="1460642034168" />
+              <option name="buildTimestamp" value="1458144000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\work\idea_ws\ai-portal">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.258" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\apps\JetBrains\IntelliJ IDEA 2016.1\bin" />
+              <option name="projectOpenTimestamp" value="1459995342639" />
               <option name="buildTimestamp" value="1458144000000" />
             </RecentProjectMetaInfo>
           </value>
@@ -44,7 +56,7 @@
               <option name="build" value="IU-145.258" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\apps\JetBrains\IntelliJ IDEA 2016.1\bin" />
-              <option name="projectOpenTimestamp" value="1458616595409" />
+              <option name="projectOpenTimestamp" value="1460644556291" />
               <option name="buildTimestamp" value="1458144000000" />
             </RecentProjectMetaInfo>
           </value>
@@ -55,7 +67,7 @@
               <option name="build" value="IU-145.258" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\apps\JetBrains\IntelliJ IDEA 2016.1\bin" />
-              <option name="projectOpenTimestamp" value="1458825551961" />
+              <option name="projectOpenTimestamp" value="1460705830507" />
               <option name="buildTimestamp" value="1458144000000" />
             </RecentProjectMetaInfo>
           </value>

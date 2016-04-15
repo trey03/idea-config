@@ -1,84 +1,104 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="svn working copy format">
-      <project id="ai-comms" values="1.8,1.8,1.8,1.8,1.8,1.8,1.8" collectionTime="1458478521618" />
-      <project id="al-parent" values="1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8" collectionTime="1458614049647" />
+      <project id="ai-portal" values="1.8,1.8" collectionTime="1459996269982" />
+      <project id="ai-comms" values="1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8" collectionTime="1460624282983" />
+      <project id="al-parent" values="1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8" collectionTime="1460642038589" />
     </group>
     <group name="JavaScript versions">
-      <project id="al-parent" values="ECMAScript 5.1" collectionTime="1458614049647" />
-      <project id="ai-comms" values="ECMAScript 5.1" collectionTime="1458478521622" />
-      <project id="test" values="ECMAScript 5.1" collectionTime="1458825381691" />
-      <project id="hlog" values="ECMAScript 5.1" collectionTime="1458617020062" />
+      <project id="ai-comms" values="ECMAScript 5.1" collectionTime="1460624282987" />
+      <project id="ai-portal" values="ECMAScript 5.1" collectionTime="1459996270019" />
+      <project id="hlog" values="ECMAScript 5.1" collectionTime="1460657894214" />
+      <project id="al-parent" values="ECMAScript 5.1" collectionTime="1460642038589" />
+      <project id="test" values="ECMAScript 5.1" collectionTime="1460528934563" />
     </group>
     <group name="module type">
-      <project id="al-parent" values="JAVA_MODULE" collectionTime="1458614049596" />
-      <project id="ai-comms" values="JAVA_MODULE" collectionTime="1458478521563" />
-      <project id="test" values="JAVA_MODULE" collectionTime="1458825381327" />
-      <project id="hlog" values="JAVA_MODULE" collectionTime="1458617019935" />
+      <project id="ai-comms" values="JAVA_MODULE" collectionTime="1460624282873" />
+      <project id="ai-portal" values="JAVA_MODULE" collectionTime="1459996269674" />
+      <project id="hlog" values="JAVA_MODULE" collectionTime="1460657893742" />
+      <project id="al-parent" values="JAVA_MODULE" collectionTime="1460642038527" />
+      <project id="test" values="JAVA_MODULE" collectionTime="1460528934151" />
     </group>
     <group name="vcs">
-      <project id="ai-comms" values="svn" collectionTime="1458478521562" />
-      <project id="al-parent" values="svn" collectionTime="1458614049596" />
-      <project id="hlog" values="Git" collectionTime="1458617019935" />
+      <project id="ai-portal" values="svn" collectionTime="1459996269673" />
+      <project id="ai-comms" values="svn" collectionTime="1460624282873" />
+      <project id="al-parent" values="svn" collectionTime="1460642038527" />
+      <project id="hlog" values="Git" collectionTime="1460657893741" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="test" values="Application" collectionTime="1458825381328" />
+      <project id="hlog" values="Application,JUnit" collectionTime="1460657893742" />
+      <project id="test" values="Application" collectionTime="1460528934152" />
     </group>
     <group name="file-type">
-      <project id="al-parent" values="Properties,JAVA,JSP,XML,JavaScript,SourceMap,PLAIN_TEXT,UNKNOWN,CSS" collectionTime="1458614049645" />
-      <project id="ai-comms" values="SourceMap,JavaScript,CSS,JSP,UNKNOWN,PLAIN_TEXT,JAVA,XML,Properties" collectionTime="1458478521608" />
-      <project id="test" values="JAVA,XML" collectionTime="1458825381455" />
-      <project id="hlog" values="PLAIN_TEXT,XML,JAVA,Manifest,CSS,JavaScript,Properties,ARCHIVE,SQL,JSP,UNKNOWN" collectionTime="1458617020016" />
-    </group>
-    <group name="jdbc-datasource">
-      <project id="test" values="Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  Oracle Label Security  OLAP  Data Mining &#10;Oracle Database Vault and Real Application Testing options" collectionTime="1458825381688" />
+      <project id="ai-comms" values="CSS,UNKNOWN,JavaScript,JSP,JAVA,XML,PLAIN_TEXT,SourceMap,Properties" collectionTime="1460624282965" />
+      <project id="ai-portal" values="Properties,CSS,SQL,Images,JavaScript,Manifest,ARCHIVE,UNKNOWN,XML,JAVA,PLAIN_TEXT,JSP,HTML" collectionTime="1459996269902" />
+      <project id="hlog" values="CSS,PLAIN_TEXT,Properties,Manifest,UNKNOWN,JAVA,JSP,XML,JavaScript,ARCHIVE,SQL" collectionTime="1460657893907" />
+      <project id="al-parent" values="PLAIN_TEXT,JAVA,CSS,Properties,SourceMap,XML,JSP,UNKNOWN,JavaScript" collectionTime="1460642038577" />
+      <project id="test" values="XML,JAVA" collectionTime="1460528934259" />
     </group>
     <group name="Spring MVC">
-      <project id="hlog" values="mvcModelsInProject_0" collectionTime="1458617020074" />
-      <project id="al-parent" values="mvcModelsInProject_0" collectionTime="1458614049650" />
+      <project id="ai-portal" values="mvcModelsInProject_0" collectionTime="1459996270052" />
+      <project id="hlog" values="mvcModelsInProject_0" collectionTime="1460657894231" />
+      <project id="al-parent" values="mvcModelsInProject_0" collectionTime="1460642038591" />
     </group>
     <group name="jdbc-driver">
-      <project id="test" values="oracle.jdbc.OracleDriver" collectionTime="1458825381688" />
+      <project id="test" values="oracle.jdbc.OracleDriver" collectionTime="1460528934561" />
     </group>
     <group name="frameworks">
-      <project id="hlog" values="web" collectionTime="1458617019935" />
-      <project id="al-parent" values="web" collectionTime="1458614049596" />
+      <project id="hlog" values="web" collectionTime="1460657893741" />
+      <project id="al-parent" values="web" collectionTime="1460642038527" />
     </group>
     <group name="javaScript Scope Usages">
-      <project id="al-parent" values="Project,Project" collectionTime="1458614049647" />
-      <project id="ai-comms" values="Project,Project" collectionTime="1458478521621" />
-      <project id="test" values="Project,Project" collectionTime="1458825381691" />
-      <project id="hlog" values="Project,Project" collectionTime="1458617020062" />
+      <project id="ai-comms" values="Project,Project" collectionTime="1460624282987" />
+      <project id="ai-portal" values="Project,Project" collectionTime="1459996270019" />
+      <project id="hlog" values="Project,Project" collectionTime="1460657894214" />
+      <project id="al-parent" values="Project,Project" collectionTime="1460642038589" />
+      <project id="test" values="Project,Project" collectionTime="1460528934563" />
     </group>
     <group name="Git">
-      <project id="al-parent" values="config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled" collectionTime="1458614049647" />
-      <project id="ai-comms" values="config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.ssh.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1458478521617" />
-      <project id="test" values="config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.force.push.enabled" collectionTime="1458825381474" />
-      <project id="hlog" values="config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.warn.about.detached.enabled,data.remote.branches.count.1,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.ssh.enabled,data.local.branches.count.1,config.save.policy.STASH,data.remotes.in.project.1" collectionTime="1458617020060" />
+      <project id="ai-comms" values="config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1460624282982" />
+      <project id="ai-portal" values="config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1459996269981" />
+      <project id="hlog" values="config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,data.remotes.in.project.1,data.remote.branches.count.2+,config.push.update.all.roots.enabled,data.local.branches.count.2+,config.warn.about.crlf.enabled" collectionTime="1460657893936" />
+      <project id="al-parent" values="config.push.autoupdate.disabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled" collectionTime="1460642038589" />
+      <project id="test" values="config.push.update.all.roots.enabled,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1460528934291" />
     </group>
     <group name="libraries">
-      <project id="hlog" values="spring-mvc,JAX-RS,CDI,spring" collectionTime="1458617020055" />
-      <project id="al-parent" values="spring-mvc,spring" collectionTime="1458614049646" />
+      <project id="ai-portal" values="spring,spring-mvc,JAX-WS" collectionTime="1459996269940" />
+      <project id="hlog" values="JAX-RS,spring,spring-mvc,CDI" collectionTime="1460657893912" />
+      <project id="al-parent" values="spring,spring-mvc" collectionTime="1460642038578" />
+      <project id="test" values="spring" collectionTime="1460528934274" />
+    </group>
+    <group name="Libraries by jars">
+      <project id="ai-portal" values="spring-core_3.0,spring-mvc_3.0" collectionTime="1459996269978" />
+      <project id="hlog" values="spring-core_4.1,spring-core_3.1,spring-mvc_3.1,spring-mvc_4.1" collectionTime="1460657893930" />
+      <project id="al-parent" values="freemarker_2.3,spring-mvc_3.1,spring-core_3.1" collectionTime="1460642038589" />
     </group>
     <group name="language-level">
-      <project id="al-parent" values="JDK_1_8,JDK_1_5" collectionTime="1458614049647" />
-      <project id="ai-comms" values="JDK_1_3" collectionTime="1458478521614" />
-      <project id="test" values="JDK_1_8,JDK_1_5" collectionTime="1458825381472" />
-      <project id="hlog" values="JDK_1_5,JDK_1_3" collectionTime="1458617020056" />
+      <project id="ai-comms" values="JDK_1_3" collectionTime="1460624282980" />
+      <project id="ai-portal" values="JDK_1_4,JDK_1_5" collectionTime="1459996269978" />
+      <project id="hlog" values="JDK_1_6,JDK_1_5,JDK_1_3" collectionTime="1460657893931" />
+      <project id="al-parent" values="JDK_1_8,JDK_1_5" collectionTime="1460642038589" />
+      <project id="test" values="JDK_1_5,JDK_1_8" collectionTime="1460528934288" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
       <entry feature="CreateFile.CreateFileAction" count="1" />
       <entry feature="StripeButton[Ant Build].hidden" count="1" />
+      <entry feature="StripeButton[Database].hidden" count="1" />
       <entry feature="StripeButton[Hierarchy].hidden" count="1" />
       <entry feature="StripeButton[REST Client].hidden" count="1" />
       <entry feature="StripeButton[Terminal].hidden" count="1" />
-      <entry feature="execute.Application.Debug" count="3" />
-      <entry feature="execute.Application.Run" count="13" />
+      <entry feature="execute.Application.Debug" count="14" />
+      <entry feature="execute.Application.Run" count="164" />
+      <entry feature="execute.JUnit.Debug" count="12" />
+      <entry feature="execute.JUnit.Run" count="17" />
+      <entry feature="ide.help.ideaInterface.editor" count="2" />
+      <entry feature="ide.help.procedures.navigating.goto.class" count="1" />
       <entry feature="ide.settings.Appearance" count="3" />
       <entry feature="ide.settings.Auto_Import" count="1" />
       <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.Code_Folding" count="1" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="5" />
       <entry feature="ide.settings.Console_Font" count="2" />
       <entry feature="ide.settings.Editor_Tabs" count="2" />
@@ -87,24 +107,30 @@
       <entry feature="ide.settings.File_and_Code_Templates" count="2" />
       <entry feature="ide.settings.Font" count="12" />
       <entry feature="ide.settings.Inspections" count="1" />
-      <entry feature="ide.settings.Java" count="5" />
-      <entry feature="ide.settings.Keymap" count="22" />
-      <entry feature="ide.settings.Live_Templates" count="60" />
+      <entry feature="ide.settings.Java" count="6" />
+      <entry feature="ide.settings.Java_Compiler" count="8" />
+      <entry feature="ide.settings.Keymap" count="25" />
+      <entry feature="ide.settings.Live_Templates" count="65" />
       <entry feature="ide.settings.Maven" count="1" />
-      <entry feature="ide.settings.Plugins" count="1" />
-      <entry feature="ide.settings.Project_Structure" count="9" />
+      <entry feature="ide.settings.Plugins" count="4" />
+      <entry feature="ide.settings.Project_Structure" count="29" />
       <entry feature="ide.settings.Subversion" count="1" />
       <entry feature="ide.settings.System_Settings" count="1" />
       <entry feature="ide.settings.Terminal" count="5" />
       <entry feature="ide.settings.Version_Control" count="1" />
       <entry feature="ide.settings.Vim_Emulation" count="1" />
-      <entry feature="ideaapp.started" count="20" />
-      <entry feature="scala.file.script.parsed" count="104" />
-      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="47" />
-      <entry feature="terminal.win" count="18" />
+      <entry feature="ideaapp.started" count="54" />
+      <entry feature="scala.file.script.parsed" count="752" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="145" />
+      <entry feature="terminal.win" count="32" />
+      <entry feature="tips.of.the.day.next" count="5" />
+      <entry feature="tips.of.the.day.prev" count="1" />
+      <entry feature="uml.ShowDiagram.JAVA" count="1" />
+      <entry feature="uml.ShowDiagram.JAVA.popup" count="2" />
       <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
-      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="4" />
       <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
     </counts>
   </component>
 </application>

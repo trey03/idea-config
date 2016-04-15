@@ -7,6 +7,31 @@
       <find>app</find>
       <find>static</find>
       <find>isDebugEnabled</find>
+      <find>chenf</find>
+      <find>computeMaxs</find>
+      <find>descriptor</find>
+      <find>ASM</find>
+      <find>visitMaxs</find>
+      <find>visitMethod</find>
+      <find>Visitor</find>
+      <find>abstract</find>
+      <find>V1_</find>
+      <find>Expression</find>
+      <find>scan</find>
+      <find>metadataReaderFactory</find>
+      <find>177</find>
+      <find>initThreadNum</find>
+      <find>timeout</find>
+      <find>final static</find>
+      <find>mapQueue</find>
+      <find>'</find>
+      <find>DefStreamHandleExecutor</find>
     </findStrings>
+    <replaceStrings>
+      <replace>\&quot;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\work\idea_ws\ai-comms\al-spring-ext\src\main\java</dir>
+    </dirStrings>
   </component>
 </application>

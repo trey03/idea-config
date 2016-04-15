@@ -7,4 +7,7 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="COLLAPSE_ONE_LINE_METHODS" value="false" />
+  </component>
 </application>
